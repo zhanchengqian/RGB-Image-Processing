@@ -10,6 +10,7 @@ The information about the input image to be printed out is the following:
 ..* Average R, G, B values 
 
 **Usage: >> ImageTest input_image_filename**
+
 Image size: 480 x 640 
 Min, max R values: 72 207 
 Min, max G values: 39 175 
